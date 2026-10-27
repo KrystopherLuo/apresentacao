@@ -11,6 +11,7 @@ footer {
 
 #titulo-especial {
     background-color: #3da8ff;
+    color: white;
 }
 
 .linha-especial {
@@ -20,6 +21,8 @@ footer {
 main {
     max-width: 800px;
     margin: 0 auto;
+    padding: 20px;
+
 }
 
 body {
@@ -28,11 +31,19 @@ body {
     font-family: Arial, sans-serif;
 }
 
+h1 {
+    font-size: 36px;
+}
+
 h2 {
     color: wheat;
+    font-size: 24px;
 }
 
 li {
     color: white;
 }
 
+* {
+    box-sizing: border-box;
+}
