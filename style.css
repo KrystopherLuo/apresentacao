@@ -1,0 +1,38 @@
+footer img {
+    max-width: 40%;
+    height: auto;
+    margin: 15px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+#titulo-especial {
+    background-color: #3da8ff;
+}
+
+.linha-especial {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: black;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: wheat;
+}
+
+li {
+    color: white;
+}
+
